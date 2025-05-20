@@ -60,7 +60,7 @@ Estándar para redes LAN
 🎯 Objetivo del módulo
 Entender cómo funciona la comunicación básica en las redes y qué dispositivos intervienen. Este conocimiento es esencial para comprender ataques y defensas en entornos reales.
 
-📌 Notas personales (agrega tus observaciones)
+📌 Notas personales
 ✅ Hoy aprendí cómo se estructura una red desde cero. Entendí cómo fluye la información entre dispositivos y cuáles son las herramientas y protocolos básicos que usaré constantemente en mi carrera. 
 
 🔍 Me quedó claro que saber diferenciar TCP de UDP es fundamental para análisis de tráfico con Wireshark. 
